@@ -13,7 +13,7 @@ module.exports = client => {
    var oyun = [
         "💪 7/24 Aktif!",  
         "💡 a!davet | Botumuzu ekleyin",
-        "🔥 Yapımcım | AlbayReiz174#3783", 
+        "🔥 Yapımcım | Flozzy", 
         "a!yardım 🔥 + a!davet 🔥 + a!otorol"
     ];
 
